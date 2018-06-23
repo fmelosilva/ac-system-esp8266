@@ -21,7 +21,6 @@ You can deploy some rules on system in runtime. The rules should be described in
 | Entity        | Events              | 
 | ------------- |:-------------------:| 
 | Pulser        | On N pulses ocurred | 
-|               |                     |
 
 ### Available resources for monitoring:
 * Pulse counter
