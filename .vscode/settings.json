@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/fms6/.platformio/penv/bin:/home/fms6/.platformio/penv:/home/fms6/.nvm/versions/node/v10.2.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
