@@ -1,11 +1,11 @@
 # AC System ESP8266
 
-A flexible server system to monitor and control an airconditioner. The monitoring has some backup rules.
+A flexible server to monitor and control an airconditioner. The monitoring has some backup rules.
 
 ## Usage
 You can deploy some rules on system in runtime. The rules should be described in json format as shown bellow.
 
-To build and upload the configuration file, run the commands bellow
+To build and upload the filesystem, run the commands bellow
 
 ```console
 $ platformio run --target buildfs
