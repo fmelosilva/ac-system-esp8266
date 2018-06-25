@@ -5,6 +5,14 @@ A flexible server system to monitor and control an airconditioner. The monitorin
 ## Usage
 You can deploy some rules on system in runtime. The rules should be described in json format as shown bellow.
 
+To build and upload the configuration file, run the commands bellow
+
+```console
+$ platformio run --target buildfs
+$ platformio run --target uploadfs
+```
+
+
 ### Some examples of rules:
 ```json
 {
