@@ -1,6 +1,6 @@
 # AC System ESP8266
 
-A flexible server to monitor and control an airconditioner. The monitoring has some backup rules.
+A flexible system to monitor and control an airconditioner. The monitoring has some backup rules.
 
 ## Usage
 You can deploy some rules on system in runtime. The rules should be described in json format as shown bellow.
